@@ -1,0 +1,10 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5ecd7;   /* cream */
+  color: #4b2e1e;              /* brown */
+  margin: 0;
+  padding: 1rem;
+}
+h1 {
+  color: #6f4e37;
+}
